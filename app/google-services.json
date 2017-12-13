@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951856882211",
+    "firebase_url": "https://uberdemo-54b13.firebaseio.com",
+    "project_id": "uberdemo-54b13",
+    "storage_bucket": "uberdemo-54b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951856882211:android:1dc674cb73ee772a",
+        "android_client_info": {
+          "package_name": "com.example.maruta.uberfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951856882211-cns3cllapmede601fs7j9h7ma3ej0bm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EKaD14IzBX9oYkJ0zXxSMAHQ3ZZVCuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
